@@ -1,3 +1,4 @@
+# de fyra tal sätten
 print('plus   [1]')
 print('minus  [2]')
 print('gånger [3]')
